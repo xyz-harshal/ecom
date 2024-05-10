@@ -65,6 +65,7 @@ const router = createBrowserRouter([
       }
     ]
   },
+  //heyy its cool
   {
     path:'/admin',
     element: <Admin/>,
